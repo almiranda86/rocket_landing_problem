@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RocketLandingApp", "RocketLandingApp\RocketLandingApp.csproj", "{91AE4270-AE34-4DF2-98A6-C4C7F162C95D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RocketLangingAppTest", "RocketLangingAppTest\RocketLangingAppTest.csproj", "{C605AE66-3153-4C71-9BDE-1AAB229DA244}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91AE4270-AE34-4DF2-98A6-C4C7F162C95D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91AE4270-AE34-4DF2-98A6-C4C7F162C95D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91AE4270-AE34-4DF2-98A6-C4C7F162C95D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91AE4270-AE34-4DF2-98A6-C4C7F162C95D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C605AE66-3153-4C71-9BDE-1AAB229DA244}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C605AE66-3153-4C71-9BDE-1AAB229DA244}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C605AE66-3153-4C71-9BDE-1AAB229DA244}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C605AE66-3153-4C71-9BDE-1AAB229DA244}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E611E61-6B37-40CE-B576-7D3B01F8E417}
+	EndGlobalSection
+EndGlobal
